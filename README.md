@@ -1,3 +1,3 @@
-# Front_end
+# Try
 
-test https://sergsch.github.io/Front_end/
+test https://sergsch.github.io/try/
